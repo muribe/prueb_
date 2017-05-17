@@ -1,0 +1,2 @@
+Alumno : Javiera
+Promedio: 7.6

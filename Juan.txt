@@ -1,0 +1,2 @@
+Alumno : Juan
+Promedio: 3.6
